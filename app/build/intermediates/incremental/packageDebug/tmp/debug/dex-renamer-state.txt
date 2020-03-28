@@ -1,0 +1,4 @@
+#Sat Mar 28 19:31:50 AST 2020
+base.0=C\:\\Users\\Suliman\\IdeaProjects\\UI\\FileSharing\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
